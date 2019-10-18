@@ -1,6 +1,5 @@
 from fbchat import Client, log
 from fbchat.models import *
-import Credentials
 import apiai, codecs, json
 
 class echoBot(Client):
